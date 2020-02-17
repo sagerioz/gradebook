@@ -1,3 +1,3 @@
 ��# gradebook
 
-A simple console app excercise using C#.
+A simple console app exercise using C#.
